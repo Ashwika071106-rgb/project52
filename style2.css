@@ -1,0 +1,11 @@
+.head{
+    color: #000;
+    background-color: violet;
+    text-align: center;
+    margin: 200px;
+    padding: 150px;
+    width: 400px;
+}
+*{
+    background-color: limegreen;
+}
