@@ -5,7 +5,7 @@
     font-family: cursive;
 }
 .main{
-    background-color: lime;
+    background-color: crimson;
     color: #000;
     border-radius: 200px;
     padding: 50px;
@@ -14,7 +14,7 @@
     font-family: sans-serif;
 }
 .end{
-    background-color: yellowgreen;
+    background-color: crimson;
     color: #000;
     text-align: center;
     font-size: 30px;
